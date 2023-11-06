@@ -9,8 +9,8 @@
 <br>
 # Задача №2:
 ## Папка django_task2:
-<span style="background-color:grey">**_docker build -t my_django:v1 _** Сборка контейнера</span><br>
+<span style="background-color:grey">**_docker build -t my_django:v1 _**</span> Сборка контейнера<br>
 <br>
-<span style="background-color:grey">**_docker run -d -p 8000:8000 my_django:v1 _** Запуск контейнера в фоновом режиме</span><br>
+<span style="background-color:grey">**_docker run -d -p 8000:8000 my_django:v1 _**</span> Запуск контейнера в фоновом режиме<br>
 <br>
 (http://localhost:8000/api/v1/) Проверка через браузер
